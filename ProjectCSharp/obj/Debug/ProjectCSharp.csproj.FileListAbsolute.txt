@@ -1,0 +1,10 @@
+D:\FPTU\semester5\PRN292\ProjectGroup\ProjectCSharp\bin\Debug\ProjectCSharp.exe.config
+D:\FPTU\semester5\PRN292\ProjectGroup\ProjectCSharp\bin\Debug\ProjectCSharp.exe
+D:\FPTU\semester5\PRN292\ProjectGroup\ProjectCSharp\bin\Debug\ProjectCSharp.pdb
+D:\FPTU\semester5\PRN292\ProjectGroup\ProjectCSharp\obj\Debug\ProjectCSharp.csprojAssemblyReference.cache
+D:\FPTU\semester5\PRN292\ProjectGroup\ProjectCSharp\obj\Debug\ProjectCSharp.Form1.resources
+D:\FPTU\semester5\PRN292\ProjectGroup\ProjectCSharp\obj\Debug\ProjectCSharp.Properties.Resources.resources
+D:\FPTU\semester5\PRN292\ProjectGroup\ProjectCSharp\obj\Debug\ProjectCSharp.csproj.GenerateResource.cache
+D:\FPTU\semester5\PRN292\ProjectGroup\ProjectCSharp\obj\Debug\ProjectCSharp.csproj.CoreCompileInputs.cache
+D:\FPTU\semester5\PRN292\ProjectGroup\ProjectCSharp\obj\Debug\ProjectCSharp.exe
+D:\FPTU\semester5\PRN292\ProjectGroup\ProjectCSharp\obj\Debug\ProjectCSharp.pdb
